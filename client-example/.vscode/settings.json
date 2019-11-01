@@ -1,0 +1,10 @@
+{
+    "eslint.options": {
+        "configFile": "C:/Users/dejav/Documents/Proyectos/eslint-plugin-test/client-example/config/.eslintrc.json"
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.nodePath": "C:/Users/dejav/Documents/Proyectos/eslint-plugin-test/client-example/node_modules",
+    "eslint.workingDirectories": [
+        "C:/Users/dejav/Documents/Proyectos/eslint-plugin-test/client-example",
+    ]
+}
