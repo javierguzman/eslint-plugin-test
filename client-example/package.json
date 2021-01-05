@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/javierguzman/eslint-plugin-test#readme",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
